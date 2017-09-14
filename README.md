@@ -4,7 +4,7 @@
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 
-### [RxJava在实际项目中的应用场景举例](http://note.youdao.com/)
+### [RxJava在实际项目中的应用场景举例](https://github.com/rengwuxian/RxJavaSamples)
 
 ## 网络请求 ↓
 
@@ -32,6 +32,6 @@
 
 ### [日志输出：logger](https://github.com/orhanobut/logger)
 
-### [内存泄漏检测扫描工具：leakcanary](http://note.youdao.com/)
+### [内存泄漏检测扫描工具：leakcanary](https://github.com/square/leakcanary)
 
 ### [消除一堆findById和getResource，改用注解：butterknife](https://github.com/JakeWharton/butterknife)
