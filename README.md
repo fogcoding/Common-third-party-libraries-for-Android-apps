@@ -20,11 +20,23 @@
 
 ### [EventBus](https://github.com/greenrobot/EventBus)
 
+## 路由 ↓
+
+### [ARouter](https://github.com/alibaba/ARouter)
+
+## 崩溃恢复 ↓
+
+### [Recovery](https://github.com/Sunzxyong/Recovery)
+
+## 抓包 ↓
+
+### [stetho](https://github.com/facebook/stetho)
+
 ## 强烈推荐使用 ↓
 
 ### [RecyclerView的全能型通配Adapter，几乎涵盖所有列表应用场景：BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)，官网：http://www.recyclerview.org/
 
-## 可能会使用到的 ↓
+## 可能会使用到 ↓
 
 ### [Android 6.0以上运行时权限检查：PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 
