@@ -18,11 +18,11 @@
 
 ## 事件总线 ↓
 
-## [EventBus](https://github.com/greenrobot/EventBus)
+### [EventBus](https://github.com/greenrobot/EventBus)
 
 ## 强烈推荐使用 ↓
 
-## [RecyclerView的全能型通配Adapter，几乎涵盖所有列表应用场景：BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)，官网：http://www.recyclerview.org/
+### [RecyclerView的全能型通配Adapter，几乎涵盖所有列表应用场景：BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)，官网：http://www.recyclerview.org/
 
 ## 可能会使用到的 ↓
 
