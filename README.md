@@ -36,6 +36,10 @@
 
 ### [RecyclerView的全能型通配Adapter，几乎涵盖所有列表应用场景：BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)，官网：http://www.recyclerview.org/
 
+## 开发规范 ↓
+
+### [阿里开发手册](https://github.com/Common-tools/Common-third-party-libraries-for-Android-apps/blob/master/%E9%98%BF%E9%87%8CJava%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C.pdf)
+
 ## 可能会使用到 ↓
 
 ### [Android 6.0以上运行时权限检查：PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
